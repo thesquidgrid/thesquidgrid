@@ -5,7 +5,7 @@
 <table align="center" width="100%">
   <tr>
     <td width="70%">
-      <pre align="left">
+      <pre>
                         .__     .__          ___.                   .__                              
   ______  ____  ______  |  |__  |__|_____    \_ |__   __ __   ____  |  |__    _____  _____     ____  
  /  ___/ /  _ \ \____ \ |  |  \ |  |\__  \    | __ \ |  |  \_/ ___\ |  |  \  /     \ \__  \   /    \ 
@@ -15,9 +15,8 @@
 
 </pre>
     </td>
-    <td width = "30">
+    <td width = "20%">
       <img src = "https://github.com/thesquidgrid/thesquidgrid/blob/main/stickers/sophia.gif">
-      
     </td>
   </tr>
 </table>
