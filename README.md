@@ -12,7 +12,9 @@
       <img src="https://spotify-recently-played-readme.vercel.app/api?user=31n75zap74pmloq7pdfhnkqizocm&width=400" alt="Spotify recently played">
     </td>
     <td>
-      <img src="https://spotify-recently-played-readme.vercel.app/api?user=31n75zap74pmloq7pdfhnkqizocm&width=400" alt="Spotify recently played">
+      <table>
+        
+      </table>
     </td>
   </tr>
 </table>
