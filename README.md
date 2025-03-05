@@ -15,7 +15,7 @@
 
 </pre>
     </td>
-    <td width = "20%">
+    <td width = "30%">
       <img src = "https://github.com/thesquidgrid/thesquidgrid/blob/main/stickers/sophia.gif">
     </td>
   </tr>
