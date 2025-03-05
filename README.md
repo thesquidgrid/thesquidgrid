@@ -2,8 +2,6 @@
 <h3 align="center">Computer Engineering Student At MCC</h3>
 
 
-![GitHub Contribution Snake Animation](https://raw.githubusercontent.com/thesquidgrid/thesquidgrid/output/github-contribution-grid-snake.svg)
-
 <table>
   <tr>
     <th>My Spotify:</th>
@@ -15,7 +13,8 @@
     </td>
     <td>
         <img src="https://raw.githubusercontent.com/thesquidgrid/thesquidgrid/output/github-contribution-grid-snake.svg" 
-             alt="GitHub Contribution Snake Animation" width="300">
+             alt="GitHub Contribution Snake Animation" width="300"
+             style="transform: rotate(90deg);">
       </td>
   </tr>
 </table>
