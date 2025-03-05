@@ -4,7 +4,7 @@
 <table>
   <tr>
     <th>My Spotify:</th>
-    <th>Contact</th>
+    <th>My Activity:</th>
   </tr>
   <tr>
     <td>
