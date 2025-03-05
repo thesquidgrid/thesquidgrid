@@ -64,11 +64,11 @@
       <img src="https://github.com/thesquidgrid/thesquidgrid/blob/main/blinkies/a13.gif">
       <img src="https://github.com/thesquidgrid/thesquidgrid/blob/main/blinkies/akappletreeblinkie.gif">
       <img src="https://github.com/thesquidgrid/thesquidgrid/blob/main/blinkies/blink1.gif">
-      <img src="https://github.com/thesquidgrid/thesquidgrid/blob/main/blinkies/catscape-ad%402x.gif" width = "86%">
+      <img src="https://github.com/thesquidgrid/thesquidgrid/blob/main/blinkies/catscape-ad%402x.gif">
       <img src="https://github.com/thesquidgrid/thesquidgrid/blob/main/blinkies/hobbieblink26.gif">
-      <img src="https://github.com/thesquidgrid/thesquidgrid/blob/main/blinkies/linux-directory.gif" width= "86%">
-      <img src="https://github.com/thesquidgrid/thesquidgrid/blob/main/blinkies/linuxnow.gif" width= "86%">
-      <img src="https://github.com/thesquidgrid/thesquidgrid/blob/main/blinkies/mm_blinkie_gvg.gif" width= "86%">
+      <img src="https://github.com/thesquidgrid/thesquidgrid/blob/main/blinkies/linux-directory.gif">
+      <img src="https://github.com/thesquidgrid/thesquidgrid/blob/main/blinkies/linuxnow.gif">
+      <img src="https://github.com/thesquidgrid/thesquidgrid/blob/main/blinkies/mm_blinkie_gvg.gif">
     </td>
   </tr>
 </table>
