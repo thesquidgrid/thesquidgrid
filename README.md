@@ -7,10 +7,10 @@
     <th width="50%">Stickers!</th>
   </tr>
   <tr>
-    <td width="50%">
-      <img src="https://spotify-recently-played-readme.vercel.app/api?user=31n75zap74pmloq7pdfhnkqizocm&width=400" alt="Spotify recently played">
+    <td width="70%">
+      <img src="https://spotify-recently-played-readme.vercel.app/api?user=31n75zap74pmloq7pdfhnkqizocm&width=600&count=10" alt="Spotify recently played">
     </td>
-    <td width="50%">
+    <td width="30%">
       <img src="https://github.com/thesquidgrid/thesquidgrid/blob/main/stickers/Fish_on_table.gif">
       <img src="https://github.com/thesquidgrid/thesquidgrid/blob/main/stickers/Know14.gif">
       <img src="https://github.com/thesquidgrid/thesquidgrid/blob/main/stickers/fishballani.gif">
