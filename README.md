@@ -3,7 +3,7 @@
 
 <h2>A basic HTML table</h2>
 
-<table style="width:200" display: flex; justify-content: center;>
+<table display: block; margin-left: auto; margin-right: auto;>
   <tr>
     <th>My Spotify:</th>
     <th>Contact</th>
