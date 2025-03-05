@@ -12,6 +12,7 @@
       <img src="https://spotify-recently-played-readme.vercel.app/api?user=31n75zap74pmloq7pdfhnkqizocm&width=500" alt="Spotify recently played" width="500">
     </td>
   </tr>
+  <th>My Activity:</th>
   <tr>
     <td>
         <img src="https://raw.githubusercontent.com/thesquidgrid/thesquidgrid/output/github-contribution-grid-snake.svg" 
