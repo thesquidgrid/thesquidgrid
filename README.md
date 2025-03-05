@@ -56,13 +56,19 @@
     <th width="50%">Stickers!</th>
   </tr>
   <tr>
-    <td width="70%">
-      <img src="https://spotify-recently-played-readme.vercel.app/api?user=31n75zap74pmloq7pdfhnkqizocm&width=600&count=10" alt="Spotify recently played">
+    <td width="80%">
+      <img src="https://spotify-recently-played-readme.vercel.app/api?user=31n75zap74pmloq7pdfhnkqizocm&width=800&count=10" alt="Spotify recently played">
     </td>
-    <td width="20%">
-      <img src="https://github.com/thesquidgrid/thesquidgrid/blob/main/stickers/Fish_on_table.gif">
-      <img src="https://github.com/thesquidgrid/thesquidgrid/blob/main/stickers/Know14.gif">
-      <img src="https://github.com/thesquidgrid/thesquidgrid/blob/main/stickers/fishmovd.gif">
+    <td width="10%">
+      <img src="https://github.com/thesquidgrid/thesquidgrid/blob/main/blinkies/KickYourButtBlinkie_mommys.gif">
+      <img src="https://github.com/thesquidgrid/thesquidgrid/blob/main/blinkies/a13.gif">
+      <img src="https://github.com/thesquidgrid/thesquidgrid/blob/main/blinkies/akappletreeblinkie.gif">
+      <img src="https://github.com/thesquidgrid/thesquidgrid/blob/main/blinkies/blink1.gif">
+      <img src="https://github.com/thesquidgrid/thesquidgrid/blob/main/blinkies/catscape-ad%402x.gif" width = "86%">
+      <img src="https://github.com/thesquidgrid/thesquidgrid/blob/main/blinkies/hobbieblink26.gif">
+      <img src="https://github.com/thesquidgrid/thesquidgrid/blob/main/blinkies/linux-directory.gif" width= "86%">
+      <img src="https://github.com/thesquidgrid/thesquidgrid/blob/main/blinkies/linuxnow.gif" width= "86%">
+      <img src="https://github.com/thesquidgrid/thesquidgrid/blob/main/blinkies/mm_blinkie_gvg.gif" width= "86%">
     </td>
   </tr>
 </table>
