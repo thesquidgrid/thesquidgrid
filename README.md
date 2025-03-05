@@ -1,6 +1,14 @@
-<h1 align="center">Hello! I'm Sophia Buchman</h1>
-<h3 align="center">Computer Engineering Student At MCC</h3>
+<h1 align="center">Hello! I'm</h1>
 
+<pre align="center">
+
+░██████╗░█████╗░██████╗░██╗░░██╗██╗░█████╗░  ██████╗░██╗░░░██╗░█████╗░██╗░░██╗███╗░░░███╗░█████╗░███╗░░██╗
+██╔════╝██╔══██╗██╔══██╗██║░░██║██║██╔══██╗  ██╔══██╗██║░░░██║██╔══██╗██║░░██║████╗░████║██╔══██╗████╗░██║
+╚█████╗░██║░░██║██████╔╝███████║██║███████║  ██████╦╝██║░░░██║██║░░╚═╝███████║██╔████╔██║███████║██╔██╗██║
+░╚═══██╗██║░░██║██╔═══╝░██╔══██║██║██╔══██║  ██╔══██╗██║░░░██║██║░░██╗██╔══██║██║╚██╔╝██║██╔══██║██║╚████║
+██████╔╝╚█████╔╝██║░░░░░██║░░██║██║██║░░██║  ██████╦╝╚██████╔╝╚█████╔╝██║░░██║██║░╚═╝░██║██║░░██║██║░╚███║
+╚═════╝░░╚════╝░╚═╝░░░░░╚═╝░░╚═╝╚═╝╚═╝░░╚═╝  ╚═════╝░░╚═════╝░░╚════╝░╚═╝░░╚═╝╚═╝░░░░░╚═╝╚═╝░░╚═╝╚═╝░░╚══╝
+</pre>
 
 <table align="center" width="100%">
   <tr>
@@ -20,7 +28,7 @@
         <img src="https://github.com/thesquidgrid/thesquidgrid/blob/main/stickers/fishballani.gif" height="100">
     </th>
     <th>
-        <img src="https://github.com/thesquidgrid/thesquidgrid/blob/main/stickers/fishballani.gif" height="100">
+        <img src="https://github.com/thesquidgrid/thesquidgrid/blob/main/stickers/EmailFrog.gif" height="100">
     </th>
   </tr>
 </table>
