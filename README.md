@@ -1,6 +1,9 @@
 <h1 align="center">Hello! I'm Sophia Buchman</h1>
 <h3 align="center">Computer Engineering Student At MCC</h3>
 
+
+![GitHub Contribution Snake Animation](https://raw.githubusercontent.com/thesquidgrid/thesquidgrid/output/github-contribution-grid-snake.svg)
+
 <table>
   <tr>
     <th>My Spotify:</th>
