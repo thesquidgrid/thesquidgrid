@@ -21,7 +21,8 @@
   </tr>
 </table>
 
-<img src = "https://github.com/thesquidgrid/thesquidgrid/blob/main/stickers/bborderwaterplant.gif"> <img src = "https://github.com/thesquidgrid/thesquidgrid/blob/main/stickers/bborderwaterplant.gif"> 
+<img width = "50%" align="left" src = "https://github.com/thesquidgrid/thesquidgrid/blob/main/stickers/bborderwaterplant.gif"> 
+<img width = "50%" align="right" src = "https://github.com/thesquidgrid/thesquidgrid/blob/main/stickers/bborderwaterplant.gif"> 
 
 
 
