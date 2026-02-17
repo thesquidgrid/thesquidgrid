@@ -1,4 +1,4 @@
-<h1  align="center" font-size: 3em > клубника🍓</h1>
+<h1  align="center" font-size: 3em > Sofa Buchman🍓</h1>
 
 <img align="center" src="https://github.com/thesquidgrid/thesquidgrid/blob/main/pikman.gif" height="900" alt="workin man"  />
 
